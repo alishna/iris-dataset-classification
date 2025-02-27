@@ -1,0 +1,17 @@
+# Ignore dataset files
+*.data
+*.names
+Index
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore hidden Git files
+.git/
